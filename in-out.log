@@ -1777,3 +1777,16 @@
 2016-01-30 23:33:05   [main] INFO  p.j.s.country.FetchCountryTest - FetchCountryTest.CountryWrapper(name=Yemen, code=YE) 
 2016-01-30 23:33:05   [main] INFO  p.j.s.country.FetchCountryTest - FetchCountryTest.CountryWrapper(name=Zambia, code=ZM) 
 2016-01-30 23:33:05   [main] INFO  p.j.s.country.FetchCountryTest - FetchCountryTest.CountryWrapper(name=Zimbabwe, code=ZW) 
+2016-03-17 23:06:16   [main] INFO  pl.java.scalatech.CarServiceApp - Starting CarServiceApp on przodownik-r1 with PID 26803 (/home/przodownik/blog/carService/build/classes/main started by przodownik in /home/przodownik/blog/carService) 
+2016-03-17 23:06:16   [main] INFO  pl.java.scalatech.CarServiceApp - The following profiles are active: dev 
+2016-03-17 23:06:20   [main] INFO  pl.java.scalatech.config.I18nConfig - ++++ language :  
+2016-03-17 23:06:22   [main] INFO  pl.java.scalatech.CarServiceApp - User(firstname=przodownik, email=przodownik@tlen.pl, login=przodownik, password=null, enabled=true, roles=null, cars=null, address=null) 
+2016-03-17 23:06:22   [main] INFO  pl.java.scalatech.CarServiceApp - User(firstname=kowalski, email=kowalski@tlen.pl, login=kowalski, password=null, enabled=true, roles=null, cars=null, address=null) 
+2016-03-17 23:06:22   [main] INFO  pl.java.scalatech.CarServiceApp - User(firstname=nowak, email=nowak@tlen.pl, login=nowak, password=null, enabled=true, roles=null, cars=null, address=null) 
+2016-03-17 23:06:22   [main] INFO  pl.java.scalatech.CarServiceApp - User(firstname=plank, email=plank@tlen.pl, login=plank, password=null, enabled=true, roles=null, cars=null, address=null) 
+2016-03-17 23:06:22   [main] INFO  pl.java.scalatech.CarServiceApp - User(firstname=tyson, email=tyson@tlen.pl, login=tyson, password=null, enabled=true, roles=null, cars=null, address=null) 
+2016-03-17 23:06:22   [main] INFO  pl.java.scalatech.CarServiceApp - User(firstname=holyfield, email=holyfield@tlen.pl, login=holyfield, password=null, enabled=true, roles=null, cars=null, address=null) 
+2016-03-17 23:06:22   [main] INFO  pl.java.scalatech.CarServiceApp - User(firstname=jones, email=jones@tlen.pl, login=jones, password=null, enabled=true, roles=null, cars=null, address=null) 
+2016-03-17 23:06:22   [main] INFO  pl.java.scalatech.CarServiceApp - User(firstname=obama, email=obama@tlen.pl, login=obama, password=null, enabled=true, roles=null, cars=null, address=null) 
+2016-03-17 23:06:22   [main] INFO  pl.java.scalatech.CarServiceApp - User(firstname=anonymous, email=anonymous@tlen.pl, login=anonymous, password=null, enabled=true, roles=null, cars=null, address=null) 
+2016-03-17 23:06:22   [main] INFO  pl.java.scalatech.CarServiceApp - Started CarServiceApp in 6.525 seconds (JVM running for 6.92) 
